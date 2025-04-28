@@ -1,0 +1,5 @@
+Flask
+spacy
+pdfplumber
+docx2txt
+fpdf
